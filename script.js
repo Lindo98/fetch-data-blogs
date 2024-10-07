@@ -20,8 +20,7 @@ const api = new GhostContentAPI({
   // display all post data
           posts.forEach((post) => {
 
-            markdownContent +=  `# ${post.title}\n\n`; 
-            markdownContent +=  `**ID**: ${post.id}\n\n`;
+            markdownContent +=  `# **Blog Title**: ${post.title}\n\n`; 
             
             // convert html to text
             const plainText = convert(post.html, {
@@ -38,6 +37,17 @@ const api = new GhostContentAPI({
           });
 
 
+          //create separate md files for each post
+
+          // fs.writeFile(`${posts.title}.md`, markdownContent, (err) => {
+          //   if (err) {
+          //     console.error(err);
+          //     return;
+          //   } else {
+          //     console.log('File written successfully!');
+          //   }
+          // });
+          
           fs.writeFile('Blog-posts.md', markdownContent, (err) => {
             if (err) {
               console.error(err);

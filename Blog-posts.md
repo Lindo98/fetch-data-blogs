@@ -1,6 +1,4 @@
-# Release WK38-24
-
-**ID**: 66e908c4c854d028e3b8f853
+# **Blog Title**: Release WK38-24
 
 Hi All 👋,
 
@@ -42,9 +40,7 @@ from the PitchPrint Team. 🤗.
 
 --------------------
 
-# Release WK33-24
-
-**ID**: 66bf28afc854d028e3b8f79d
+# **Blog Title**: Release WK33-24
 
 Hi all👋,
 
@@ -85,9 +81,7 @@ the PitchPrint Team 🤗
 
 --------------------
 
-# Release WK29-24
-
-**ID**: 666b0027c854d028e3b8f6eb
+# **Blog Title**: Release WK29-24
 
 Hi all 👋,
 
@@ -132,9 +126,7 @@ PitchPrint Team 🤗!
 
 --------------------
 
-# Release WK17-24
-
-**ID**: 66279ad2c854d028e3b8f65c
+# **Blog Title**: Release WK17-24
 
 Hi all👋,
 
@@ -165,9 +157,7 @@ Well that's it for this week's updates, stay tuned for more exciting features an
 
 --------------------
 
-# Release WK39-23
-
-**ID**: 651563b7c854d028e3b8f551
+# **Blog Title**: Release WK39-23
 
 Hi all👋,
 
@@ -215,9 +205,7 @@ the PitchPrint team!😊
 
 --------------------
 
-# Release WK36-23
-
-**ID**: 64f992a0c854d028e3b8f456
+# **Blog Title**: Release WK36-23
 
 Hi All👋,
 
@@ -266,9 +254,7 @@ productive week ahead from the entire PitchPrint team! 😊
 
 --------------------
 
-# Release WK29-23
-
-**ID**: 64c0c3fcc854d028e3b8f364
+# **Blog Title**: Release WK29-23
 
 Hi all👋,
 
@@ -327,9 +313,7 @@ That's it for this week folks, until next time have a lovely and productive week
 
 --------------------
 
-# Release WK23-23
-
-**ID**: 6479a245c854d028e3b8f2a6
+# **Blog Title**: Release WK23-23
 
 Hi all👋,
 
@@ -367,9 +351,7 @@ productive week ahead from the entire PitchPrint team! 😊
 
 --------------------
 
-# Release WK18-23
-
-**ID**: 6454a070c854d028e3b8f1d2
+# **Blog Title**: Release WK18-23
 
 Hi everyone👋,
 
@@ -404,9 +386,7 @@ And that's it for this week, folks! We hope you have a productive week ahead fro
 
 --------------------
 
-# Release WK14-23
-
-**ID**: 642ec7acc854d028e3b8f129
+# **Blog Title**: Release WK14-23
 
 Hi All👋,
 
@@ -447,9 +427,7 @@ Well that's it for this week folks, have a lovely PassOver weekend with your fam
 
 --------------------
 
-# Release WK07-23
-
-**ID**: 63ec9771c854d028e3b8efd7
+# **Blog Title**: Release WK07-23
 
 Hi all👋,
 
@@ -518,9 +496,7 @@ Safe!
 
 --------------------
 
-# Release WK44-22
-
-**ID**: 63885cdfc854d028e3b8eec3
+# **Blog Title**: Release WK44-22
 
 Hi all👋,
 
@@ -571,9 +547,7 @@ Have a lovely weekend from the PitchPrint team😊!
 
 --------------------
 
-# Release WK42-22
-
-**ID**: 63763907c854d028e3b8ed3b
+# **Blog Title**: Release WK42-22
 
 Hi All👋,
 
@@ -622,9 +596,7 @@ Have a wonderful weekend from the PitchPrint Team😊!
 
 --------------------
 
-# Release WK40-22
-
-**ID**: 635146f2c854d028e3b8ec21
+# **Blog Title**: Release WK40-22
 
 Hi all👋,
 
@@ -679,9 +651,7 @@ Have a great week from the PitchPrint Team!😊
 
 --------------------
 
-# Release WK36-22
-
-**ID**: 633bd9c1c854d028e3b8eabe
+# **Blog Title**: Release WK36-22
 
 Hi All👋,
 
@@ -720,9 +690,7 @@ Have a good weekend from the PitchPrint team!😊
 
 --------------------
 
-# Release WK34-22
-
-**ID**: 632c2ddfc854d028e3b8e8d9
+# **Blog Title**: Release WK34-22
 
 Hi All👋,
 
@@ -838,9 +806,7 @@ That's it for this week guys, have a lovely weekend from the PitchPrint team😊
 
 --------------------
 
-# PDF Rendering
-
-**ID**: 631b2fe7c854d028e3b8e5fd
+# **Blog Title**: PDF Rendering
 
 Over the years, one of our greatest challenge has been how to generate PDF files for print. Yes, PDFs are abundant all over the digital
 space from bank statements to reports, e-books, invoicing, tickets, and so on but there are unique pain points faced by the print community
@@ -939,9 +905,7 @@ Have a lovely and productive week from the PitchPrint Team!
 
 --------------------
 
-# Release WK29-22
-
-**ID**: 62ff48c6c854d028e3b8e4d1
+# **Blog Title**: Release WK29-22
 
 Hi all👋,
 
@@ -990,9 +954,7 @@ That's it for this week, have a lovely weekend from the PitchPrint Team!😊
 
 --------------------
 
-# Release WK27-22
-
-**ID**: 62ebb59cc854d028e3b8e3e7
+# **Blog Title**: Release WK27-22
 
 Hi all👋,
 
@@ -1040,9 +1002,7 @@ That's it for this week, enjoy the rest of your week from the PitchPrint team!�
 
 --------------------
 
-# Release WK25-22
-
-**ID**: 62d94b66c854d028e3b8e30b
+# **Blog Title**: Release WK25-22
 
 Hi all👋,
 
@@ -1095,9 +1055,7 @@ Enjoy the rest of your week from the PitchPrint Team😊!
 
 --------------------
 
-# Release WK23-22
-
-**ID**: 62c6cf96c854d028e3b8e1a7
+# **Blog Title**: Release WK23-22
 
 Hi all👋,
 
@@ -1140,9 +1098,7 @@ Have a lovely week from the PitchPrint team!😊
 
 --------------------
 
-# Release WK21-22
-
-**ID**: 62b31a6bc854d028e3b8e0a7
+# **Blog Title**: Release WK21-22
 
 Hi all👋,
 
@@ -1181,9 +1137,7 @@ Have a lovely and productive week from the PitchPrint Team!😊
 
 --------------------
 
-# Release WK19-22
-
-**ID**: 6298b20ac854d028e3b8df43
+# **Blog Title**: Release WK19-22
 
 Hi All👋,
 
@@ -1248,9 +1202,7 @@ Have a lovely weekend from the PitchPrint Team!😊
 
 --------------------
 
-# Release WK17-22
-
-**ID**: 627ba5eac854d028e3b8ddff
+# **Blog Title**: Release WK17-22
 
 Hi all👋,
 
@@ -1299,9 +1251,7 @@ Have a lovely and productive week, from the PitchPrint Team!😊
 
 --------------------
 
-# Release WK15-22
-
-**ID**: 62615b5cc854d028e3b8dcdc
+# **Blog Title**: Release WK15-22
 
 Hi all 👋,
 
@@ -1342,9 +1292,7 @@ Have a productive and lovely week, from the PitchPrint team!😊
 
 --------------------
 
-# Release WK13-22
-
-**ID**: 624d9810c854d028e3b8dc25
+# **Blog Title**: Release WK13-22
 
 Hi All👋,
 
@@ -1390,9 +1338,7 @@ Enjoy the rest of your week from the PitchPrint team😊
 
 --------------------
 
-# Release WK11-22
-
-**ID**: 623af0eac854d028e3b8da5b
+# **Blog Title**: Release WK11-22
 
 Hi all👋,
 
@@ -1449,9 +1395,7 @@ Wishing you a lovely week from the PitchPrint Team!😊
 
 --------------------
 
-# Release WK09-22
-
-**ID**: 62284a01c854d028e3b8d8ef
+# **Blog Title**: Release WK09-22
 
 Hi all👋,
 
@@ -1496,9 +1440,7 @@ Please do keep an eye out on our blog for some more exciting weekly features and
 
 --------------------
 
-# Release WK08-22
-
-**ID**: 6221d6cfc854d028e3b8d7cc
+# **Blog Title**: Release WK08-22
 
 Hi all👋,
 
@@ -1548,9 +1490,7 @@ PitchPrint Team 😊
 
 --------------------
 
-# Release WK07-22
-
-**ID**: 6214dde7c854d028e3b8d69b
+# **Blog Title**: Release WK07-22
 
 Hi all👋,
 
@@ -1593,9 +1533,7 @@ Check our platform next week for some awesome new features and any bug fixes. Ha
 
 --------------------
 
-# Release WK06-22
-
-**ID**: 620cb879c854d028e3b8d526
+# **Blog Title**: Release WK06-22
 
 Hi all👋,
 
@@ -1632,9 +1570,7 @@ Stay glued to our blog for some more exciting news about new features and bug fi
 
 --------------------
 
-# Release WK05-22
-
-**ID**: 6203ae24c854d028e3b8d424
+# **Blog Title**: Release WK05-22
 
 Hi all👋,
 
@@ -1677,9 +1613,7 @@ PitchPrint team!
 
 --------------------
 
-# Release WK04-22
-
-**ID**: 61fa3555c854d028e3b8d329
+# **Blog Title**: Release WK04-22
 
 Hi all👋,
 
@@ -1721,9 +1655,7 @@ That's it for this week guys please join us next week for some more exciting fea
 
 --------------------
 
-# Release WK03-22
-
-**ID**: 61f14f5ac854d028e3b8d242
+# **Blog Title**: Release WK03-22
 
 Hi all👋,
 
@@ -1764,9 +1696,7 @@ That's it for this week guys, please keep an eye out for our next weekly release
 
 --------------------
 
-# Release WK21-48
-
-**ID**: 61b887b2c854d028e3b8d101
+# **Blog Title**: Release WK21-48
 
 Hi all👋,
 
@@ -1806,9 +1736,7 @@ The PitchPrint Team wishes you all a merry Christmas & a wonderful 2022 ahead!
 
 --------------------
 
-# Release WK21-47
-
-**ID**: 61af55ffc854d028e3b8d028
+# **Blog Title**: Release WK21-47
 
 Hi all👋,
 
@@ -1842,9 +1770,7 @@ That's it for this week folks, tune in next week for some awesome new features a
 
 --------------------
 
-# Release WK21-46
-
-**ID**: 61a73f9bc854d028e3b8cf0d
+# **Blog Title**: Release WK21-46
 
 Hi all👋,
 
@@ -1877,9 +1803,7 @@ That's it for this week folks, tune in next week for some more exciting new feat
 
 --------------------
 
-# Release WK21-45
-
-**ID**: 619e0110c854d028e3b8cde3
+# **Blog Title**: Release WK21-45
 
 Hi all👋,
 
@@ -1920,9 +1844,7 @@ and exciting new features!. Enjoy the rest of your week :)
 
 --------------------
 
-# Release WK21-44
-
-**ID**: 6195f470c854d028e3b8ccbf
+# **Blog Title**: Release WK21-44
 
 Hi all👋,
 
@@ -1964,9 +1886,7 @@ See you next week for some more exciting feature updates and bug fixes. Have an 
 
 --------------------
 
-# Release WK21-43
-
-**ID**: 618ce726c854d028e3b8cb10
+# **Blog Title**: Release WK21-43
 
 Hi all👋,
 
@@ -2008,9 +1928,7 @@ That's it for this week, we'll be back next week with some exciting new features
 
 --------------------
 
-# Release WK21-42
-
-**ID**: 618282fdc854d028e3b8c9dd
+# **Blog Title**: Release WK21-42
 
 Hi all👋,
 
@@ -2047,9 +1965,7 @@ We'll be back next week with some awesome features and bug fixes. Have a fantast
 
 --------------------
 
-# Release WK21-41
-
-**ID**: 6177e32dc854d028e3b8c8aa
+# **Blog Title**: Release WK21-41
 
 Hi All👋,
 
@@ -2084,9 +2000,7 @@ Continue being glued to our blog for some more exciting news about new features 
 
 --------------------
 
-# Release WK21-40
-
-**ID**: 616e986bc854d028e3b8c6f0
+# **Blog Title**: Release WK21-40
 
 Hi all👋,
 
@@ -2145,9 +2059,7 @@ That's it for now, we'll see you next week with some more exciting feature updat
 
 --------------------
 
-# Release WK21-39
-
-**ID**: 615c059cc854d028e3b8c59a
+# **Blog Title**: Release WK21-39
 
 Hi All👋,
 
@@ -2202,9 +2114,7 @@ Be on the lookout for our upcoming weekly release next week where we will be ann
 
 --------------------
 
-# Smart Sizes
-
-**ID**: 61484fccc854d028e3b8c30b
+# **Blog Title**: Smart Sizes
 
 Hi guys👋
 
@@ -2261,9 +2171,7 @@ https://review.capterra.com/Feedback-PitchPrint-180523-3107660498 [https://revie
 
 ![undefined](https://blog.pitchprint.com/content/images/2021/09/Smart-Resize.png)
 
-# Release WK21-38
-
-**ID**: 61530c3ec854d028e3b8c40b
+# **Blog Title**: Release WK21-38
 
 Hi All👋,
 
@@ -2300,9 +2208,7 @@ Stayed tuned and we'll be back next week with some more bug fixes and features.
 
 --------------------
 
-# Release WK21-33
-
-**ID**: 6127396fc854d028e3b8c270
+# **Blog Title**: Release WK21-33
 
 Hi all👋,
 
@@ -2333,9 +2239,7 @@ media pages(Facebook [https://www.facebook.com/pitchprint], Instagram [https://w
 
 --------------------
 
-# Spark - Print API
-
-**ID**: 60fa8d4b45bf0e66fcb3de22
+# **Blog Title**: Spark - Print API
 
 Hey Folks,
 
@@ -2368,9 +2272,7 @@ us a DM on twitter [https://twitter.com/pitchprint]
 
 ![undefined](https://blog.pitchprint.com/content/images/2021/07/Spark.png)
 
-# Release WK21-27
-
-**ID**: 60e3026845bf0e66fcb3dd6c
+# **Blog Title**: Release WK21-27
 
 Hi all👋,
 
@@ -2409,9 +2311,7 @@ That's it for this week! Please stay safe and healthy and we'll see you next wee
 
 --------------------
 
-# Release WK21-24
-
-**ID**: 60d196c945bf0e66fcb3dd13
+# **Blog Title**: Release WK21-24
 
 Hi all👋,
 
@@ -2439,9 +2339,7 @@ Keep well and stay safe.
 
 --------------------
 
-# Release WK21-22
-
-**ID**: 60bdf3f445bf0e66fcb3dc97
+# **Blog Title**: Release WK21-22
 
 Hi all👋,
 
@@ -2473,9 +2371,7 @@ That's it for this week, please tune in with us next week for more bug fixes and
 
 --------------------
 
-# Introducing our new Admin Portal
-
-**ID**: 60b602dc45bf0e66fcb3da5e
+# **Blog Title**: Introducing our new Admin Portal
 
 At PitchPrint, we see Design as a means of empowering you, our clients to make more sales. Because ultimately, your business goal is for
 each of your customers to checkout and the quicker they are able to do that, the better for your business.
@@ -2568,9 +2464,7 @@ Safe!
 
 ![undefined](https://blog.pitchprint.com/content/images/2021/06/Web-1920---1--1--1.png)
 
-# Release #WEEK 21-21
-
-**ID**: 60b4918145bf0e66fcb3d9ee
+# **Blog Title**: Release #WEEK 21-21
 
 Hi all👋
 
@@ -2601,9 +2495,7 @@ That's it for now, we'll be back next week with more exciting features and bug f
 
 --------------------
 
-# Release #WEEK 21-20
-
-**ID**: 60aba93a45bf0e66fcb3d88a
+# **Blog Title**: Release #WEEK 21-20
 
 Hi everyone 👋
 
@@ -2659,9 +2551,7 @@ That's it for this week, we'll see you next week with some more excited updates 
 
 --------------------
 
-# Under the Hood: PDF rendering
-
-**ID**: 60598cc545bf0e66fcb3d77e
+# **Blog Title**: Under the Hood: PDF rendering
 
 One of the challenges we had with earlier versions of PitchPrint was DevOps, specifically the process of scaling and maintaining the
 servers.
@@ -2718,9 +2608,7 @@ You can print designs with watermark by simply appending a W to the URL
 
 --------------------
 
-# Under the Hood: Photo Upload Pipeline
-
-**ID**: 5fb74ddf45bf0e66fcb3d5ce
+# **Blog Title**: Under the Hood: Photo Upload Pipeline
 
 Over the years, PitchPrint has processed over 50million photos, amounting to over 12 terabytes of data generated and stored, that is an
 average of 2000 photos being processed on our systems every hour.
@@ -2818,9 +2706,7 @@ every photo your users upload using our Webhook process: https://docs.pitchprint
 
 ![undefined](https://blog.pitchprint.com/content/images/2021/03/SPRK_default_preset_name_custom---1.jpg)
 
-# Release #WEEK 44
-
-**ID**: 5fa8d45845bf0e66fcb3d566
+# **Blog Title**: Release #WEEK 44
 
  * Design Selector on Mobile - When a design is selected in Design Module, the panel now hides on a mobile design.
 
@@ -2840,9 +2726,7 @@ every photo your users upload using our Webhook process: https://docs.pitchprint
 
 --------------------
 
-# Release #WEEK 43
-
-**ID**: 5f96cf3a45bf0e66fcb3d4ff
+# **Blog Title**: Release #WEEK 43
 
  * Input Mask (beta) - We are adding input mask capability for Text items. In the current state, it only works with Data Form Module and the
    Customize Form. Basically, an input mask is used in formatting text inputs to a particular format.
@@ -2866,9 +2750,7 @@ every photo your users upload using our Webhook process: https://docs.pitchprint
 
 --------------------
 
-# PitchPrint + BigCommerce
-
-**ID**: 5f4f54a045bf0e66fcb3d45f
+# **Blog Title**: PitchPrint + BigCommerce
 
 Hi Everyone 😊, our app has been released on the BigCommerce App Store and can be installed right away.
 
@@ -2900,9 +2782,7 @@ Thanks and stay safe guys!
 
 ![undefined](https://blog.pitchprint.com/content/images/2020/09/BigCommerceLandscape-1.png)
 
-# Photo Print Module Update 🖼
-
-**ID**: 5f16de9845bf0e66fcb3d391
+# **Blog Title**: Photo Print Module Update 🖼
 
 Hello everyone,
 
@@ -2954,9 +2834,7 @@ Thanks to you all. Keep safe 😷
 
 ![undefined](https://blog.pitchprint.com/content/images/2020/07/New-Module.png)
 
-# Release #WEEK 21
-
-**ID**: 5ec51c5a45bf0e66fcb3d324
+# **Blog Title**: Release #WEEK 21
 
  * Mobile Experience - Over the past two weeks, we tweaked the mobile interface to be more responsive and fixed the nagging issue of the tab
    hiding when the UI is being scrolled. The text editor is appropriately positioned. We plan on doing more work on the interface here.
@@ -2972,9 +2850,7 @@ Thanks to you all. Keep safe 😷
 
 --------------------
 
-# Release #WEEK 19
-
-**ID**: 5eba593145bf0e66fcb3d2ba
+# **Blog Title**: Release #WEEK 19
 
  * Item Flip - We added vertical & horizontal flip for shapes and images.Annotation-2020-05-12-101635
    [https://blog.pitchprint.com/content/images/2020/05/Annotation-2020-05-12-101635.png]
@@ -2988,9 +2864,7 @@ Thanks to you all. Keep safe 😷
 
 --------------------
 
-# Release #WEEK 18
-
-**ID**: 5eafa83e45bf0e66fcb3d264
+# **Blog Title**: Release #WEEK 18
 
  * Price Display - We implemented price display in v10; The app syncs your price from the product page on the top menu
    barAnnotation-2020-05-04-074610 [https://blog.pitchprint.com/content/images/2020/05/Annotation-2020-05-04-074610.png]
@@ -3008,9 +2882,7 @@ Take care and keep safe!
 
 --------------------
 
-# Release #WEEK 17
-
-**ID**: 5ea67f4b45bf0e66fcb3d202
+# **Blog Title**: Release #WEEK 17
 
  * Text Alignment issue fixed - Fixed an issue where a center or right aligned text gave bad results when positioned using the page align
    control.
@@ -3025,9 +2897,7 @@ width [https://blog.pitchprint.com/content/images/2020/04/width.gif]
 
 --------------------
 
-# Release #WEEK 16
-
-**ID**: 5e9d4e5445bf0e66fcb3d188
+# **Blog Title**: Release #WEEK 16
 
  * Issue with anchored texts - We fixed issue whereby text elements that have vertical anchors (middle or bottom) were moving position when
    zooming.
@@ -3045,9 +2915,7 @@ width [https://blog.pitchprint.com/content/images/2020/04/width.gif]
 
 --------------------
 
-# Release #WEEK 15
-
-**ID**: 5e93f81745bf0e66fcb3d0e4
+# **Blog Title**: Release #WEEK 15
 
  * Mask Image Depth - We've fixed an issue whereby a mask whose image is deleted looses depth and forcefully appears in the front.
  * Customized File for 3D Cart - The final PDF file is now available in the order details in 3D Cart.
@@ -3062,9 +2930,7 @@ width [https://blog.pitchprint.com/content/images/2020/04/width.gif]
 
 --------------------
 
-# Release #WEEK 14
-
-**ID**: 5e8ad91845bf0e66fcb3d03d
+# **Blog Title**: Release #WEEK 14
 
  * Upload issue on Phones - Fixed issue after uploading an image on mobile, the upload tab would close and the canvas would display.
  * Added Shopify Order Complete Webhook - We've added the order-completed webhook to Shopify.
@@ -3084,9 +2950,7 @@ width [https://blog.pitchprint.com/content/images/2020/04/width.gif]
 
 --------------------
 
-# Release #WEEK 13
-
-**ID**: 5e8198a745bf0e66fcb3cf9f
+# **Blog Title**: Release #WEEK 13
 
  * Font loading - Fixed issue where the correct fonts assigned to a design did not load on the customers end. We had to re-write the font
    loading machanism to always pre-load all the fonts used in a design before the design is shown at all. And when a design selector module
@@ -3104,9 +2968,7 @@ Keep safe and see you in the coming week!
 
 --------------------
 
-# Release #WEEK 12
-
-**ID**: 5e783fa945bf0e66fcb3cf47
+# **Blog Title**: Release #WEEK 12
 
  * Selective PDF Color rendering using tags - Special tags: rgb and cmyk have been reserved as color rendering instructions on a per-design
    level. So you can override the store's default rendering mode by adding either of these tags to your design. For instance, if the store
@@ -3127,9 +2989,7 @@ Keep well.
 
 --------------------
 
-# Release #WEEK 11
-
-**ID**: 5e6f47a545bf0e66fcb3ce7c
+# **Blog Title**: Release #WEEK 11
 
  * DPI Check with notification warning - This warning only appears once to prevent spaming and only shows after 10 seconds of interaction.
    We will implement an additional warning to the preview page just before submission.
@@ -3143,9 +3003,7 @@ Keep well.
 
 --------------------
 
-# PitchPrint + 3dcart
-
-**ID**: 5e6601fd45bf0e66fcb3cdc2
+# **Blog Title**: PitchPrint + 3dcart
 
 Hi everyone 😊, our 3dcart integration is ready!
 
@@ -3187,9 +3045,7 @@ https://docs.pitchprint.com/article/129-layouts-v10 [https://docs.pitchprint.com
 
 ![undefined](https://blog.pitchprint.com/content/images/2020/03/Artboard---5.png)
 
-# Upload Photos from Phone
-
-**ID**: 5e2ecff345bf0e66fcb3ccc5
+# **Blog Title**: Upload Photos from Phone
 
 Hi everyone 👋
 
@@ -3240,9 +3096,7 @@ Thanks and do have a beautiful, bright year ahead.
 
 ![undefined](https://blog.pitchprint.com/content/images/2020/01/matyas-prochy-Jf-ezcuKAaA-unsplash.jpg)
 
-# Version 10 Release
-
-**ID**: 5df2221145bf0e66fcb3cad9
+# **Blog Title**: Version 10 Release
 
 We know this took us way longer than planned, our apologies. It's finally here, PitchPrint Version 10
 
@@ -3322,9 +3176,7 @@ We wish you a very great Christmas and a wonderful 2020 ahead 🎄🎅!
 
 ![undefined](https://blog.pitchprint.com/content/images/2019/12/V10-Header.png)
 
-# PitchPrint @ Prindustry Connect Event 2019
-
-**ID**: 5d79f2f645bf0e66fcb3c9f6
+# **Blog Title**: PitchPrint @ Prindustry Connect Event 2019
 
 Be our guest at the Prindustry Connect Event 2019; it is an informal relationship event for everyone in the online print industry to meet
 and we have been invited to both present as well as exhibit our software. It will be held at the Evenementenhal 2, Gorinchem, The
@@ -3368,9 +3220,7 @@ Enjoy your weekend and we look forward to seeing you at the event.
 
 ![undefined](https://blog.pitchprint.com/content/images/2019/09/Header-Q3-1--1-.png)
 
-# March Release Notes
-
-**ID**: 5c920a8a45bf0e66fcb3c8cd
+# **Blog Title**: March Release Notes
 
 Hi everyone! February has been a busy month for us; In preparation for growth, we moved into our new office. Photos coming soon 😊
 
@@ -3437,9 +3287,7 @@ now: https://www.photoeditorsdk.com/ [https://www.photoeditorsdk.com/]
 
 ![undefined](https://blog.pitchprint.com/content/images/2019/03/20190320_125906-1.jpg)
 
-# January Release Notes 🎨
-
-**ID**: 5c8450a1e9af7d3c77b6ce0e
+# **Blog Title**: January Release Notes 🎨
 
 Hi guys! We appreciate your support over the past year and we look forward to a much more exciting year ahead.
 
@@ -3518,9 +3366,7 @@ Cheers and do have an awesome year ahead ✌
 
 ![undefined](https://blog.pitchprint.com/content/images/2019/03/marc-marchal-391891-unsplash--1-.jpg)
 
-# December Release Notes 🎅
-
-**ID**: 5c8a307545bf0e66fcb3c89f
+# **Blog Title**: December Release Notes 🎅
 
 Hi guys! Compliments of the Season.
 Here's a note on what we've been working on for the past month.
@@ -3633,9 +3479,7 @@ Thanks to you all and we do wish you a merry Christmas and a splendid New Year a
 
 ![undefined](https://blog.pitchprint.com/content/images/2019/03/clem-onojeghuo-172144-unsplash-1.jpg)
 
-# November Release Notes
-
-**ID**: 5c8a307545bf0e66fcb3c89e
+# **Blog Title**: November Release Notes
 
 Hi guys, happy new month! Here's a note on what we've been working on for the past month.
 
@@ -3719,9 +3563,7 @@ Thanks to you all and love from Cape town 😊
 
 ![undefined](https://blog.pitchprint.com/content/images/2019/03/christian-perner-588111-unsplash--1-.jpg)
 
-# October Release Notes
-
-**ID**: 5c8a307545bf0e66fcb3c89d
+# **Blog Title**: October Release Notes
 
 > Release Notes will be our monthly report that highlights recent product improvements we’ve made so you can easily stay up to date on
 > what’s new with PitchPrint.

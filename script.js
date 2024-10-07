@@ -20,9 +20,9 @@ const api = new GhostContentAPI({
   // display all post data
           posts.forEach((post) => {
 
+            markdownContent +=  `# ${post.title}\n\n`; 
             markdownContent +=  `**ID**: ${post.id}\n\n`;
-            markdownContent +=  `## ${post.title}\n\n`; 
-
+            
             // convert html to text
             const plainText = convert(post.html, {
                 wordwrap: 140,
@@ -37,7 +37,7 @@ const api = new GhostContentAPI({
             }
           });
 
-          
+
           fs.writeFile('Blog-posts.md', markdownContent, (err) => {
             if (err) {
               console.error(err);

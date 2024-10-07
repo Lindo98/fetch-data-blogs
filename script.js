@@ -40,10 +40,10 @@ const api = new GhostContentAPI({
         
           // Define the file name and path
           const fileName = `${post.title.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.md`; // Sanitizing the title
-          const filePath = path.join('posts', fileName); // Adjust the path as necessary
+          const filePath = path.join('Blog-posts', fileName); // Adjust the path as necessary
         
-          // Ensure the posts directory exists
-          fs.mkdir(path.join('posts'), { recursive: true }, (err) => {
+          // Ensure the Blog-posts directory exists
+          fs.mkdir(path.join('Blog-posts'), { recursive: true }, (err) => {
             if (err) {
               console.error('Error creating directory:', err);
               return;

@@ -1,6 +1,7 @@
 const GhostContentAPI = require('@tryghost/content-api');
 const fs = require('fs');
 const {convert } = require('html-to-text');
+const path = require('path');
 
 // Initialize the GhostContentAPI 
 
@@ -17,47 +18,45 @@ const api = new GhostContentAPI({
       .then((posts) => {
         let markdownContent = '';
 
-  // display all post data
-          posts.forEach((post) => {
+        // Create the markdown content for the index page
 
-            markdownContent +=  `# **Blog Title**: ${post.title}\n\n`; 
-            
-            // convert html to text
-            const plainText = convert(post.html, {
-                wordwrap: 140,
-            })
-            markdownContent +=  `${plainText}\n\n`;
-            markdownContent +=  `--------------------\n\n`;
-
-            // include images if available
-
-            if (post.feature_image) {
-              markdownContent +=  `![${post.image}](${post.feature_image})\n\n`;
-            }
+        // Loop through posts
+        
+        posts.forEach((post) => {
+          // Create the markdown content for the individual post
+          let markdownContent = `# **Blog Title**: ${post.title}\n\n`;
+        
+          // Convert HTML to plain text
+          const plainText = convert(post.html, {
+            wordwrap: 140,
           });
-
-
-          //create separate md files for each post
-
-          // fs.writeFile(`${posts.title}.md`, markdownContent, (err) => {
-          //   if (err) {
-          //     console.error(err);
-          //     return;
-          //   } else {
-          //     console.log('File written successfully!');
-          //   }
-          // });
-          
-          fs.writeFile('Blog-posts.md', markdownContent, (err) => {
+          markdownContent += `${plainText}\n\n`;
+          markdownContent += `--------------------\n\n`;
+        
+          // Include images if available
+          if (post.feature_image) {
+            markdownContent += `![${post.title}](${post.feature_image})\n\n`;
+          }
+        
+          // Define the file name and path
+          const fileName = `${post.title.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.md`; // Sanitizing the title
+          const filePath = path.join('posts', fileName); // Adjust the path as necessary
+        
+          // Ensure the posts directory exists
+          fs.mkdir(path.join('posts'), { recursive: true }, (err) => {
             if (err) {
-              console.error(err);
+              console.error('Error creating directory:', err);
               return;
-            } else {
-              console.log('File written successfully!');
             }
+        
+            // Write the markdown content to the file
+            fs.writeFile(filePath, markdownContent, (err) => {
+              if (err) {
+                console.error(`Error writing file ${fileName}:`, err);
+              } else {
+                console.log(`Successfully wrote file ${fileName}`);
+              }
+            });
           });
+        });
       })
-      .catch((err) => {
-          console.error(err);
-      });
-

@@ -34,5 +34,3 @@ backgrounds fit designs ranging from A5 - A0
 That wraps up our updates for this week, everyone! We'll be back soon with more exciting updates and bug fixes. Wishing you a wonderful and
 productive week ahead from the entire PitchPrint team! 😊
 
---------------------
-

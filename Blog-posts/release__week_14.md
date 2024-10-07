@@ -16,5 +16,3 @@
    disabled.
  * We still do daily releases and many other small bugs were fixed along the week.
 
---------------------
-

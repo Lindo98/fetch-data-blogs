@@ -87,7 +87,5 @@ your product page elements and changes the design based on the variations or opt
 We're back working on awesome features and further bug fixes. We look forward to sharing them with you all in the coming months 😊. Keep
 Safe!
 
---------------------
-
 ![Introducing our new Admin Portal](https://blog.pitchprint.com/content/images/2021/06/Web-1920---1--1--1.png)
 

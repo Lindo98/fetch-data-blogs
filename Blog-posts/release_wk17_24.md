@@ -27,5 +27,3 @@ visibility. However, we've addressed this issue, ensuring that products now appe
 
 Well that's it for this week's updates, stay tuned for more exciting features and fixes. Have a lovely week from the PitchPrint Team!🤗
 
---------------------
-

@@ -38,5 +38,3 @@ https://www.capterra.co.za/software/180523/pitchprint#reviews [https://www.capte
 
 That's it for this week, we'll be back next week with some exciting new features and bug fixes. Enjoy the rest of your week!
 
---------------------
-

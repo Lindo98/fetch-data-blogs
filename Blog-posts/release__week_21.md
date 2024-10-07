@@ -12,5 +12,3 @@
  * Text Transform - A button has been added to More text options drop down to toggle text case from lower case to all caps and vice versa.
  * Minor updates - Added an Ok button to welcome message; Certain fonts not loading on Mobile; and lots more minor fixes and improvements.
 
---------------------
-

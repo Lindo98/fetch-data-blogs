@@ -36,5 +36,3 @@ The PitchPrint Team wishes you all a merry Christmas & a wonderful 2022 ahead!
 
 [https://blog.pitchprint.com/content/images/2021/12/Annual-shutdown-2021--1-.png]
 
---------------------
-

@@ -61,7 +61,5 @@ This allows you to limit the types of files users can upload in the plugin (Outs
 We are finalizing licensing agreements for the new Image Editor as such, it's being delayed. We hope to bring it on board a few weeks from
 now: https://www.photoeditorsdk.com/ [https://www.photoeditorsdk.com/]
 
---------------------
-
 ![March Release Notes](https://blog.pitchprint.com/content/images/2019/03/20190320_125906-1.jpg)
 

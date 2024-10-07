@@ -44,5 +44,3 @@ shown below:
 Well that's it for this week folks be sure to catch us in our next release for more awesome updates and features. Have a lovely week from
 the PitchPrint team!😊
 
---------------------
-

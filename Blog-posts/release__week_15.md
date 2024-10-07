@@ -11,5 +11,3 @@
  * Copy and paste text from 3rd party source - We've added a feature to give the user the ability to copy and paste new text from outside
    sources using Ctrl/Cmd + V
 
---------------------
-

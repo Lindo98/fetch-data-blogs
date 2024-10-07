@@ -27,5 +27,3 @@ That's it for this week, we'll be in touch next week with some more bug fixes an
 media pages(Facebook [https://www.facebook.com/pitchprint], Instagram [https://www.instagram.com/pitchprint/] and Twitter
 [https://twitter.com/pitchprint/]) for more exciting content.
 
---------------------
-

@@ -10,5 +10,3 @@
    newly imported fonts top of the list
  * New Page Color Fix - When adding a new page in designer, the color defaults to white instead of black.
 
---------------------
-

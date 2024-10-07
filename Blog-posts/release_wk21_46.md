@@ -29,5 +29,3 @@ issue and the correct font will render instantly when text arts is added to the 
 
 That's it for this week folks, tune in next week for some more exciting new features and bug fixes. Enjoy the rest of your week :)
 
---------------------
-

@@ -16,13 +16,10 @@ const api = new GhostContentAPI({
   api.posts
       .browse({limit: 'all', include: 'ID, images, title, content'})
       .then((posts) => {
-        let markdownContent = '';
-
-        // Create the markdown content for the index page
-
+       
         // Loop through posts
-        
         posts.forEach((post) => {
+
           // Create the markdown content for the individual post
           let markdownContent = `# **Blog Title**: ${post.title}\n\n`;
         
@@ -31,7 +28,6 @@ const api = new GhostContentAPI({
             wordwrap: 140,
           });
           markdownContent += `${plainText}\n\n`;
-          markdownContent += `--------------------\n\n`;
         
           // Include images if available
           if (post.feature_image) {

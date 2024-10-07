@@ -45,5 +45,3 @@ best value for their subscription.
 
 Have a lovely and productive week, from the PitchPrint Team!😊
 
---------------------
-

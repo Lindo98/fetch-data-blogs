@@ -10,5 +10,3 @@
  * Grey border fixed - Fixed an issue whereby previews have a grey bounding border around the preview images.
  * Download PNG & JPEG in admin - Fixed the issue that prevents admins from downloading PNG or Jpegs while in the design editing environment
 
---------------------
-

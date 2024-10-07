@@ -20,5 +20,3 @@
 
 [https://blog.pitchprint.com/content/images/2020/10/image-1.png]Limiting Text Input
 
---------------------
-

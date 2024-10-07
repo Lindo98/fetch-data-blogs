@@ -65,5 +65,3 @@ https://reviews.capterra.com/new/180523/bc27794c-e803-45a9-838b-f05c5c796b36?lan
 We're back working on awesome features and further bug fixes. We look forward to sharing them with you all in the coming months 😊. Keep
 Safe!
 
---------------------
-

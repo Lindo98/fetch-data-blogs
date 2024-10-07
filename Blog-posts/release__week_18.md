@@ -14,5 +14,3 @@ We are working on an advance layout builder feature for v10, coming next week.
 
 Take care and keep safe!
 
---------------------
-

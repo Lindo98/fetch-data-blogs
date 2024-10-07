@@ -14,5 +14,3 @@
    Toggling this option to true will give you 102 x 102cm as is expected by many print platforms. In order not to break existing stores, we
    disabled it by default in settings [https://admin.pitchprint.io/settings], and will only affect new designs going forward, if enbaled.
 
---------------------
-

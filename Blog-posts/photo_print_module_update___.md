@@ -46,7 +46,5 @@ OTHER UPDATES..
 
 Thanks to you all. Keep safe 😷
 
---------------------
-
 ![Photo Print Module Update 🖼](https://blog.pitchprint.com/content/images/2020/07/New-Module.png)
 

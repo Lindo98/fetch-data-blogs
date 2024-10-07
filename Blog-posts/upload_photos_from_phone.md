@@ -45,7 +45,5 @@ the coming weeks.
 Thanks and do have a beautiful, bright year ahead.
 
 
---------------------
-
 ![Upload Photos from Phone](https://blog.pitchprint.com/content/images/2020/01/matyas-prochy-Jf-ezcuKAaA-unsplash.jpg)
 

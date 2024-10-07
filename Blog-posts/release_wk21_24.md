@@ -24,5 +24,3 @@ Since our team will be focusing on the July release, we'll be back with more bug
 
 Keep well and stay safe.
 
---------------------
-

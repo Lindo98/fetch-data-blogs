@@ -74,7 +74,5 @@ We wish you a very great Christmas and a wonderful 2020 ahead 🎄🎅!
 
 [https://blog.pitchprint.com/content/images/2019/12/season-s-greetings.png]
 
---------------------
-
 ![Version 10 Release](https://blog.pitchprint.com/content/images/2019/12/V10-Header.png)
 

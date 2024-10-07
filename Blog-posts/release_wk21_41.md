@@ -31,5 +31,3 @@ Your feedback is always highly appreciated and valued.🙂
 
 Continue being glued to our blog for some more exciting news about new features and bug fixes. Have a lovely week!
 
---------------------
-

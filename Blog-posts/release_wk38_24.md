@@ -38,5 +38,3 @@ fixed and should function properly across all platforms.
 Thank you for joining us this week. We will return soon with more feature updates and bug fixes. Wishing you a wonderful and productive week
 from the PitchPrint Team. 🤗.
 
---------------------
-

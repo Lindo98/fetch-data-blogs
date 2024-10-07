@@ -46,5 +46,3 @@ best value for their subscription.
 Be on the lookout for our weekly blog releases for some more exciting news about new features and bug fixes. Have a lovely weekend from the
 PitchPrint Team 😊
 
---------------------
-

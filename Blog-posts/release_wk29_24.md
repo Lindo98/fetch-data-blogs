@@ -41,5 +41,3 @@ our scenes below:
 Well that's it for this week folks. See you guys next time with some more awesome features and fixes. Have an amazing weekend from the
 PitchPrint Team 🤗!
 
---------------------
-

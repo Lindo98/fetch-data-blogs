@@ -39,5 +39,3 @@ covered on the videos from settings to creating designs, editor elements etc. wi
 
 Have a lovely week from the PitchPrint team!😊
 
---------------------
-

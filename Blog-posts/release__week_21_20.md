@@ -52,5 +52,3 @@ Export Design List can now be found in bulk configuration.
 
 That's it for this week, we'll see you next week with some more excited updates and bug fixes.
 
---------------------
-

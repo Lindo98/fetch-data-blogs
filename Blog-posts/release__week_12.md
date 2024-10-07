@@ -17,5 +17,3 @@ We do hope everyone is safe and sound; Praying for a speedy return to normal.
 
 Keep well.
 
---------------------
-

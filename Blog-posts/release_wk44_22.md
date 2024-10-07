@@ -47,5 +47,3 @@ https://reviews.capterra.com/new/180523/bc27794c-e803-45a9-838b-f05c5c796b36?lan
 
 Have a lovely weekend from the PitchPrint team😊!
 
---------------------
-

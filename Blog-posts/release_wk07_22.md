@@ -39,5 +39,3 @@ the best value for their subscription.
 
 Check our platform next week for some awesome new features and any bug fixes. Have an awesome week from the PitchPrint Team😊!
 
---------------------
-

@@ -35,5 +35,3 @@ entire admin panel, integrations on all our supported platforms, editor elements
 
 Have a good weekend from the PitchPrint team!😊
 
---------------------
-

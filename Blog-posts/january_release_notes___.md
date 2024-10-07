@@ -73,7 +73,5 @@ NEXT MONTH..
 
 Cheers and do have an awesome year ahead ✌
 
---------------------
-
 ![January Release Notes 🎨](https://blog.pitchprint.com/content/images/2019/03/marc-marchal-391891-unsplash--1-.jpg)
 

@@ -39,5 +39,3 @@ those with fewer votes.
 That's it for this week, please tune in next week for some awesome new features and bug fixes. Enjoy the rest of your week from the
 PitchPrint team!
 
---------------------
-

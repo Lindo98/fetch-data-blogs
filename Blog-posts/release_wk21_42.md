@@ -33,5 +33,3 @@ Your feedback always helps in refining our product 🙂
 
 We'll be back next week with some awesome features and bug fixes. Have a fantastic week!
 
---------------------
-

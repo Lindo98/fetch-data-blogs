@@ -31,5 +31,3 @@ so the customer can scroll down to see the rest of the images.
 
 And that's it for this week, folks! We hope you have a productive week ahead from the PitchPrint team.😊
 
---------------------
-

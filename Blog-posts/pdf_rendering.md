@@ -95,5 +95,3 @@ even better. Your feedback is always appreciated 😊
 
 Have a lovely and productive week from the PitchPrint Team!
 
---------------------
-

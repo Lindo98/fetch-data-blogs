@@ -37,5 +37,3 @@ enable this option under Designer Settings, and we’ve included an illustrative
 That concludes our updates for this week. Stay tuned for more exciting new features and enhancements coming soon. Have an awesome week from
 the PitchPrint Team 🤗
 
---------------------
-

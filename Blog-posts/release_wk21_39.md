@@ -51,5 +51,3 @@ https://review.capterra.com/Feedback-PitchPrint-180523-3107660498 [https://revie
 
 Be on the lookout for our upcoming weekly release next week where we will be announcing some more bug fixes and exciting new features!
 
---------------------
-

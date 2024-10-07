@@ -53,5 +53,3 @@ https://pdf.pitchprint.com/projectID_or_designID/w
 
 You can print designs with watermark by simply appending a W to the URL
 
---------------------
-

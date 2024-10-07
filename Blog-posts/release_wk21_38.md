@@ -33,5 +33,3 @@ https://review.capterra.com/Feedback-PitchPrint-180523-3107660498 [https://revie
 
 Stayed tuned and we'll be back next week with some more bug fixes and features.
 
---------------------
-

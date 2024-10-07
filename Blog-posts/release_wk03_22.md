@@ -37,5 +37,3 @@ platform.
 
 That's it for this week guys, please keep an eye out for our next weekly release note for some more amazing new features and bug fixes.
 
---------------------
-

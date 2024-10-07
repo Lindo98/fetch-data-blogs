@@ -42,5 +42,3 @@ best value for their subscription.
 
 Enjoy the rest of your week from the PitchPrint team😊
 
---------------------
-

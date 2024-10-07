@@ -33,5 +33,3 @@ best value for their subscription.
 
 Stay glued to our blog for some more exciting news about new features and bug fixes. Have a lovely week from the PitchPrint Team 😊
 
---------------------
-

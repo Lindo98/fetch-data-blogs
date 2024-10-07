@@ -35,5 +35,3 @@ Twitter [https://twitter.com/pitchprint], Instagram [https://instagram.com/pitch
 
 That's it for this week! Please stay safe and healthy and we'll see you next week with more exciting news and bug fixes.
 
---------------------
-

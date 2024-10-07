@@ -44,5 +44,3 @@ functionalities to achieve more features.
 
 That's it for this week, enjoy the rest of your week from the PitchPrint team!😊
 
---------------------
-

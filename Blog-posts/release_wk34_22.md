@@ -112,5 +112,3 @@ installation guides to the frameworks we support.
 
 That's it for this week guys, have a lovely weekend from the PitchPrint team😊!
 
---------------------
-

@@ -28,9 +28,7 @@ We're still in the process of adding many new exciting designs to our store. Ple
 
 That's it for this week, please tune in with us next week for more bug fixes and additional features. Have a fabulous week!
 
---------------------
-
-n update to Wordpress where we've improved the display of metadata.
+te - Lastly, we made an update to Wordpress where we've improved the display of metadata.
 
 We also fixed the following bugs:
 
@@ -45,6 +43,4 @@ convenience. We'll add more videos in the weeks to come covering topics such as 
 out!
 
 Have a lovely and productive week from the PitchPrint Team!😊
-
---------------------
 

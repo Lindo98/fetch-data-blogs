@@ -27,5 +27,3 @@ product page. We fixed the issue so admins can now upload their own thumbnail im
 
 That's it for now, we'll be back next week with more exciting features and bug fixes.
 
---------------------
-

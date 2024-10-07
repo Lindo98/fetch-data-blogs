@@ -38,5 +38,3 @@ https://review.capterra.com/Feedback-PitchPrint-180523-3107660498 [https://revie
 
 See you next week for some more exciting feature updates and bug fixes. Have an awesome week!
 
---------------------
-

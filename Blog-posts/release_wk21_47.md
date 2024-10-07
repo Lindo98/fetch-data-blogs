@@ -30,5 +30,3 @@ in the image below:
 
 That's it for this week folks, tune in next week for some awesome new features and bug fixes. Have a fantastic week :).
 
---------------------
-

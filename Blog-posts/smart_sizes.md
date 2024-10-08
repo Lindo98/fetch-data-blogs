@@ -1,8 +1,6 @@
 # **Blog Title**: Smart Sizes
 
-## **Blog URL**: [https://blog.pitchprint.com/smart-sizes](https://blog.pitchprint.com/smart-sizes)
-
-Hi guys👋
+**Blog URL**: [https://blog.pitchprint.com/smart-sizes](https://blog.pitchprint.com/smart-sizes)Hi guys👋
 
 We have an exciting new feature we've been working on that we can't wait to share with you.
 

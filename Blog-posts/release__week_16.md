@@ -1,8 +1,6 @@
 # **Blog Title**: Release #WEEK 16
 
-## **Blog URL**: [https://blog.pitchprint.com/wk16](https://blog.pitchprint.com/wk16)
-
- * Issue with anchored texts - We fixed issue whereby text elements that have vertical anchors (middle or bottom) were moving position when
+**Blog URL**: [https://blog.pitchprint.com/wk16](https://blog.pitchprint.com/wk16) * Issue with anchored texts - We fixed issue whereby text elements that have vertical anchors (middle or bottom) were moving position when
    zooming.
  * Issue with Image Crop - We fixed issue with cropped images not being cropped in the final PDF render on distiller 1
  * Text Art Export in v10 - Admin can now export Text Arts in v10 while designing. The icon is a box that appears on the top menu list 📦

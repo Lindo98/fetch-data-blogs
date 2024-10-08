@@ -1,8 +1,6 @@
 # **Blog Title**: Release #WEEK 13
 
-## **Blog URL**: [https://blog.pitchprint.com/wk13](https://blog.pitchprint.com/wk13)
-
- * Font loading - Fixed issue where the correct fonts assigned to a design did not load on the customers end. We had to re-write the font
+**Blog URL**: [https://blog.pitchprint.com/wk13](https://blog.pitchprint.com/wk13) * Font loading - Fixed issue where the correct fonts assigned to a design did not load on the customers end. We had to re-write the font
    loading machanism to always pre-load all the fonts used in a design before the design is shown at all. And when a design selector module
    changes the design at runtime, we also updated the font list accordingly.
  * Bleed line color - Fixed issue where the bleed line color is not reflective of the value selected in settings, when a margin is applied.

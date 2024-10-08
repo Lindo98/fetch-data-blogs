@@ -1,8 +1,6 @@
 # **Blog Title**: Release WK08-22
 
-## **Blog URL**: [https://blog.pitchprint.com/wk08-22](https://blog.pitchprint.com/wk08-22)
-
-Hi all👋,
+**Blog URL**: [https://blog.pitchprint.com/wk08-22](https://blog.pitchprint.com/wk08-22)Hi all👋,
 
 As always it's an absolute pleasure to keep you up to date with what our team has been working on to make your experience at PitchPrint even
 better.

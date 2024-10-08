@@ -1,8 +1,6 @@
 # **Blog Title**: Release WK03-22
 
-## **Blog URL**: [https://blog.pitchprint.com/week03-22](https://blog.pitchprint.com/week03-22)
-
-Hi all👋,
+**Blog URL**: [https://blog.pitchprint.com/week03-22](https://blog.pitchprint.com/week03-22)Hi all👋,
 
 A warm welcome from our team to you and we would like to kick off our first post by thanking you for your continued valuable support and
 hopefully 2022 will be great for all of us! 😊

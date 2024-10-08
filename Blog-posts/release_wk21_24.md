@@ -1,8 +1,6 @@
 # **Blog Title**: Release WK21-24
 
-## **Blog URL**: [https://blog.pitchprint.com/week21-24](https://blog.pitchprint.com/week21-24)
-
-Hi all👋,
+**Blog URL**: [https://blog.pitchprint.com/week21-24](https://blog.pitchprint.com/week21-24)Hi all👋,
 
 We trust you are keeping well and safe in these trying times. We have quite a few surprises that we'll share with you in the first week of
 July please keep your eyes peeled on our Social media pages for more exciting news.

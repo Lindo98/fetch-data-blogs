@@ -1,8 +1,6 @@
 # **Blog Title**: Release #WEEK 11
 
-## **Blog URL**: [https://blog.pitchprint.com/wk11](https://blog.pitchprint.com/wk11)
-
- * DPI Check with notification warning - This warning only appears once to prevent spaming and only shows after 10 seconds of interaction.
+**Blog URL**: [https://blog.pitchprint.com/wk11](https://blog.pitchprint.com/wk11) * DPI Check with notification warning - This warning only appears once to prevent spaming and only shows after 10 seconds of interaction.
    We will implement an additional warning to the preview page just before submission.
  * Text inputs are stripped of emoticons - Emojis do not render consistently on PDFs so we are removing them. Even on our devices, emojis
    look different between devices.

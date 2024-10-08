@@ -1,8 +1,6 @@
 # **Blog Title**: March Release Notes
 
-## **Blog URL**: [https://blog.pitchprint.com/march-release-notes](https://blog.pitchprint.com/march-release-notes)
-
-Hi everyone! February has been a busy month for us; In preparation for growth, we moved into our new office. Photos coming soon 😊
+**Blog URL**: [https://blog.pitchprint.com/march-release-notes](https://blog.pitchprint.com/march-release-notes)Hi everyone! February has been a busy month for us; In preparation for growth, we moved into our new office. Photos coming soon 😊
 
 
 TEXT RULES

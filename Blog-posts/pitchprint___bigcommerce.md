@@ -1,8 +1,6 @@
 # **Blog Title**: PitchPrint + BigCommerce
 
-## **Blog URL**: [https://blog.pitchprint.com/pitchprint-bigcommerce](https://blog.pitchprint.com/pitchprint-bigcommerce)
-
-Hi Everyone 😊, our app has been released on the BigCommerce App Store and can be installed right away.
+**Blog URL**: [https://blog.pitchprint.com/pitchprint-bigcommerce](https://blog.pitchprint.com/pitchprint-bigcommerce)Hi Everyone 😊, our app has been released on the BigCommerce App Store and can be installed right away.
 
 BigCommerce is a robust eCommerce platform designed for scale and performance. It powers some of the big names in Apparels, Manufacturing,
 Automotive, Print and many other industries.

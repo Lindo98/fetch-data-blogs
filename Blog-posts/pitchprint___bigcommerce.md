@@ -1,6 +1,6 @@
 # **Blog Title**: PitchPrint + BigCommerce
 
-**Blog URL**: [https://blog.pitchprint.com/pitchprint-bigcommerce](https://blog.pitchprint.com/pitchprint-bigcommerce)
+#### **Blog URL:** [https://blog.pitchprint.com/pitchprint-bigcommerce](https://blog.pitchprint.com/pitchprint-bigcommerce)
 
 Hi Everyone 😊, our app has been released on the BigCommerce App Store and can be installed right away.
 

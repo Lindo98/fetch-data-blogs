@@ -1,6 +1,6 @@
 # **Blog Title**: Photo Print Module Update 🖼
 
-**Blog URL**: [https://blog.pitchprint.com/photo-print-module](https://blog.pitchprint.com/photo-print-module)
+#### **Blog URL:** [https://blog.pitchprint.com/photo-print-module](https://blog.pitchprint.com/photo-print-module)
 
 Hello everyone,
 

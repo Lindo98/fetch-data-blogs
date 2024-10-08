@@ -1,6 +1,6 @@
 # **Blog Title**: Release #WEEK 21-20
 
-**Blog URL**: [https://blog.pitchprint.com/week21-20](https://blog.pitchprint.com/week21-20)
+#### **Blog URL:** [https://blog.pitchprint.com/week21-20](https://blog.pitchprint.com/week21-20)
 
 Hi everyone 👋
 

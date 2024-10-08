@@ -1,6 +1,8 @@
 # **Blog Title**: December Release Notes 🎅
 
-**Blog URL**: [https://blog.pitchprint.com/december-release-notes-2](https://blog.pitchprint.com/december-release-notes-2)Hi guys! Compliments of the Season.
+**Blog URL**: [https://blog.pitchprint.com/december-release-notes-2](https://blog.pitchprint.com/december-release-notes-2)
+
+Hi guys! Compliments of the Season.
 Here's a note on what we've been working on for the past month.
 
 

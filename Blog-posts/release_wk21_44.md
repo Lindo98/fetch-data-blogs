@@ -1,6 +1,8 @@
 # **Blog Title**: Release WK21-44
 
-**Blog URL**: [https://blog.pitchprint.com/release-wk21-44](https://blog.pitchprint.com/release-wk21-44)Hi all👋,
+**Blog URL**: [https://blog.pitchprint.com/release-wk21-44](https://blog.pitchprint.com/release-wk21-44)
+
+Hi all👋,
 
 It's always a pleasure to keep you up to date on what our team has been working on to make your experience with PitchPrint the best there
 is.

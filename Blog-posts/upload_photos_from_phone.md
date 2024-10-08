@@ -1,6 +1,8 @@
 # **Blog Title**: Upload Photos from Phone
 
-**Blog URL**: [https://blog.pitchprint.com/upload-photos-from-phone](https://blog.pitchprint.com/upload-photos-from-phone)Hi everyone 👋
+**Blog URL**: [https://blog.pitchprint.com/upload-photos-from-phone](https://blog.pitchprint.com/upload-photos-from-phone)
+
+Hi everyone 👋
 
 A few weeks back, we received a request from a client that needed to use PitchPrint on their Kiosk that allows visitors to quickly order
 photo prints from their public-facing machine. The Kiosk stand obviously runs our app but has a limitation; It being in the public space

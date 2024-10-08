@@ -1,6 +1,8 @@
 # **Blog Title**: Under the Hood: Photo Upload Pipeline
 
-**Blog URL**: [https://blog.pitchprint.com/under-the-hood-photo-upload-pipeline](https://blog.pitchprint.com/under-the-hood-photo-upload-pipeline)Over the years, PitchPrint has processed over 50million photos, amounting to over 12 terabytes of data generated and stored, that is an
+**Blog URL**: [https://blog.pitchprint.com/under-the-hood-photo-upload-pipeline](https://blog.pitchprint.com/under-the-hood-photo-upload-pipeline)
+
+Over the years, PitchPrint has processed over 50million photos, amounting to over 12 terabytes of data generated and stored, that is an
 average of 2000 photos being processed on our systems every hour.
 
 [https://blog.pitchprint.com/content/images/2021/03/s3.console.aws.amazon.com_s3_buckets_pitchprint.io_region-eu-west-1-tab-metrics.png]Current

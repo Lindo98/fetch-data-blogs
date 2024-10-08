@@ -1,6 +1,8 @@
 # **Blog Title**: Release #WEEK 19
 
-**Blog URL**: [https://blog.pitchprint.com/wk19](https://blog.pitchprint.com/wk19) * Item Flip - We added vertical & horizontal flip for shapes and images.Annotation-2020-05-12-101635
+**Blog URL**: [https://blog.pitchprint.com/wk19](https://blog.pitchprint.com/wk19)
+
+ * Item Flip - We added vertical & horizontal flip for shapes and images.Annotation-2020-05-12-101635
    [https://blog.pitchprint.com/content/images/2020/05/Annotation-2020-05-12-101635.png]
  * Set Vectors as Background - Printers can now use a vector (SVG) as background images
  * PDF Commands - We started implementing pdf specific commands using design tags. The format is {pdf-operation-operand}. For now we have

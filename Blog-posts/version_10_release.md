@@ -1,6 +1,8 @@
 # **Blog Title**: Version 10 Release
 
-**Blog URL**: [https://blog.pitchprint.com/version-10-release](https://blog.pitchprint.com/version-10-release)We know this took us way longer than planned, our apologies. It's finally here, PitchPrint Version 10
+**Blog URL**: [https://blog.pitchprint.com/version-10-release](https://blog.pitchprint.com/version-10-release)
+
+We know this took us way longer than planned, our apologies. It's finally here, PitchPrint Version 10
 
 
 WHAT'S NEW 🚀

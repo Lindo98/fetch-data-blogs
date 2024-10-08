@@ -1,6 +1,8 @@
 # **Blog Title**: Release #WEEK 15
 
-**Blog URL**: [https://blog.pitchprint.com/wk15](https://blog.pitchprint.com/wk15) * Mask Image Depth - We've fixed an issue whereby a mask whose image is deleted looses depth and forcefully appears in the front.
+**Blog URL**: [https://blog.pitchprint.com/wk15](https://blog.pitchprint.com/wk15)
+
+ * Mask Image Depth - We've fixed an issue whereby a mask whose image is deleted looses depth and forcefully appears in the front.
  * Customized File for 3D Cart - The final PDF file is now available in the order details in 3D Cart.
  * No Constraints - Fixed issue. No constraints setting for a clickable mask has been fixed in v10.
  * Bleed Fill - We've added a new feature in settings, which allows you to fill the bleed area with a lighter transparent value of the bleed

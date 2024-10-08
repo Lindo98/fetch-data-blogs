@@ -1,6 +1,8 @@
 # **Blog Title**: Release #WEEK 21
 
-**Blog URL**: [https://blog.pitchprint.com/wk21](https://blog.pitchprint.com/wk21) * Mobile Experience - Over the past two weeks, we tweaked the mobile interface to be more responsive and fixed the nagging issue of the tab
+**Blog URL**: [https://blog.pitchprint.com/wk21](https://blog.pitchprint.com/wk21)
+
+ * Mobile Experience - Over the past two weeks, we tweaked the mobile interface to be more responsive and fixed the nagging issue of the tab
    hiding when the UI is being scrolled. The text editor is appropriately positioned. We plan on doing more work on the interface here.
  * Photo Crop - We have fixed some issues with the photo crop module including a solid undo state management to revert to previous crop
    states. The issue with black canvas after an image has been deleted is also fixed.

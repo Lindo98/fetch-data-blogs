@@ -1,6 +1,8 @@
 # **Blog Title**: Release WK21-22
 
-**Blog URL**: [https://blog.pitchprint.com/week21-22](https://blog.pitchprint.com/week21-22)Hi all👋,
+**Blog URL**: [https://blog.pitchprint.com/week21-22](https://blog.pitchprint.com/week21-22)
+
+Hi all👋,
 
 We trust that you are well and had a relaxing weekend and keeping safe during these trying times🙂.
 

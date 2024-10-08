@@ -1,6 +1,8 @@
 # **Blog Title**: Release #WEEK 17
 
-**Blog URL**: [https://blog.pitchprint.com/wk17](https://blog.pitchprint.com/wk17) * Text Alignment issue fixed - Fixed an issue where a center or right aligned text gave bad results when positioned using the page align
+**Blog URL**: [https://blog.pitchprint.com/wk17](https://blog.pitchprint.com/wk17)
+
+ * Text Alignment issue fixed - Fixed an issue where a center or right aligned text gave bad results when positioned using the page align
    control.
  * Photo Print Module - Photo print module is available for version 10.
  * Ungrouped Shapes color bug - We did fix an issue whereby when a shape is ungrouped, colors applied to the individual shapes wouldn't

@@ -1,6 +1,8 @@
 # **Blog Title**: Photo Print Module Update 🖼
 
-**Blog URL**: [https://blog.pitchprint.com/photo-print-module](https://blog.pitchprint.com/photo-print-module)Hello everyone,
+**Blog URL**: [https://blog.pitchprint.com/photo-print-module](https://blog.pitchprint.com/photo-print-module)
+
+Hello everyone,
 
 We've developed two additional modules for Photo Prints but rather than spin them up separately, we opted to bundle them into the existing
 Photo Print module as modes.

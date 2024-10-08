@@ -1,6 +1,8 @@
 # **Blog Title**: Release WK07-23
 
-**Blog URL**: [https://blog.pitchprint.com/release-wk07-23](https://blog.pitchprint.com/release-wk07-23)Hi all👋,
+**Blog URL**: [https://blog.pitchprint.com/release-wk07-23](https://blog.pitchprint.com/release-wk07-23)
+
+Hi all👋,
 
 We're back and hope that you're having an awesome new year thus far. We appreciate your support over the past year and we look forward to a
 much more exciting year ahead.

@@ -1,6 +1,8 @@
 # **Blog Title**: Spark - Print API
 
-**Blog URL**: [https://blog.pitchprint.com/spark](https://blog.pitchprint.com/spark)Hey Folks,
+**Blog URL**: [https://blog.pitchprint.com/spark](https://blog.pitchprint.com/spark)
+
+Hey Folks,
 
 We have just released Spark, a Print API that allows you to generate print-ready PDF files from a single design template without going into
 the designer.

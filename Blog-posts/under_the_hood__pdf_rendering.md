@@ -1,6 +1,8 @@
 # **Blog Title**: Under the Hood: PDF rendering
 
-**Blog URL**: [https://blog.pitchprint.com/under-the-hood-pdf-rendering](https://blog.pitchprint.com/under-the-hood-pdf-rendering)One of the challenges we had with earlier versions of PitchPrint was DevOps, specifically the process of scaling and maintaining the
+**Blog URL**: [https://blog.pitchprint.com/under-the-hood-pdf-rendering](https://blog.pitchprint.com/under-the-hood-pdf-rendering)
+
+One of the challenges we had with earlier versions of PitchPrint was DevOps, specifically the process of scaling and maintaining the
 servers.
 
 Web2Print unlike most other Saas products rely on a number of services, each dependent on the other. We have the main app itself which the

@@ -1,6 +1,8 @@
 # **Blog Title**: Release #WEEK 43
 
-**Blog URL**: [https://blog.pitchprint.com/wk43](https://blog.pitchprint.com/wk43) * Input Mask (beta) - We are adding input mask capability for Text items. In the current state, it only works with Data Form Module and the
+**Blog URL**: [https://blog.pitchprint.com/wk43](https://blog.pitchprint.com/wk43)
+
+ * Input Mask (beta) - We are adding input mask capability for Text items. In the current state, it only works with Data Form Module and the
    Customize Form. Basically, an input mask is used in formatting text inputs to a particular format.
    Think of asking users to provide their phone number in a particular format, an email, ZIP Code etc. You can find an example here:
    https://wp.demo.pitchprint.io/product/blue-business-card/ [http://wp.demo.pitchprint.io/product/blue-business-card/].

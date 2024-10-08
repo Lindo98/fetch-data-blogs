@@ -26,7 +26,7 @@ const api = new GhostContentAPI({
           markdownContent += `# **Blog Title**: ${post.title}\n\n`;
 
           // add url to post
-          markdownContent += `### **Blog URL**: [https://blog.pitchprint.com/${post.slug}](https://blog.pitchprint.com/${post.slug})\n\n`;
+          markdownContent += `**Blog URL**: [https://blog.pitchprint.com/${post.slug}](https://blog.pitchprint.com/${post.slug})\n\n`;
        
         
           // Convert HTML to plain text

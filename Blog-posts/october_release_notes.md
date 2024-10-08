@@ -1,6 +1,6 @@
 # **Blog Title**: October Release Notes
 
-[https://blog.pitchprint.com/release-october18-2](https://blog.pitchprint.com/release-october18-2)
+## **Blog URL**: [https://blog.pitchprint.com/release-october18-2](https://blog.pitchprint.com/release-october18-2)
 
 > Release Notes will be our monthly report that highlights recent product improvements we’ve made so you can easily stay up to date on
 > what’s new with PitchPrint.

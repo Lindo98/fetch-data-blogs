@@ -1,6 +1,6 @@
 # **Blog Title**: Release #WEEK 17
 
-[https://blog.pitchprint.com/wk17](https://blog.pitchprint.com/wk17)
+## **Blog URL**: [https://blog.pitchprint.com/wk17](https://blog.pitchprint.com/wk17)
 
  * Text Alignment issue fixed - Fixed an issue where a center or right aligned text gave bad results when positioned using the page align
    control.

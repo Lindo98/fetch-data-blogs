@@ -1,6 +1,6 @@
 # **Blog Title**: Release WK21-39
 
-[https://blog.pitchprint.com/release-wk21-39](https://blog.pitchprint.com/release-wk21-39)
+## **Blog URL**: [https://blog.pitchprint.com/release-wk21-39](https://blog.pitchprint.com/release-wk21-39)
 
 Hi All👋,
 

@@ -1,6 +1,6 @@
 # **Blog Title**: Release #WEEK 16
 
-[https://blog.pitchprint.com/wk16](https://blog.pitchprint.com/wk16)
+## **Blog URL**: [https://blog.pitchprint.com/wk16](https://blog.pitchprint.com/wk16)
 
  * Issue with anchored texts - We fixed issue whereby text elements that have vertical anchors (middle or bottom) were moving position when
    zooming.

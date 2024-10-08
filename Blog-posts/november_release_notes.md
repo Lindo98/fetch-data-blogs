@@ -1,6 +1,6 @@
 # **Blog Title**: November Release Notes
 
-[https://blog.pitchprint.com/november-release-note-2](https://blog.pitchprint.com/november-release-note-2)
+## **Blog URL**: [https://blog.pitchprint.com/november-release-note-2](https://blog.pitchprint.com/november-release-note-2)
 
 Hi guys, happy new month! Here's a note on what we've been working on for the past month.
 

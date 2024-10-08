@@ -1,6 +1,6 @@
 # **Blog Title**: Release #WEEK 19
 
-[https://blog.pitchprint.com/wk19](https://blog.pitchprint.com/wk19)
+## **Blog URL**: [https://blog.pitchprint.com/wk19](https://blog.pitchprint.com/wk19)
 
  * Item Flip - We added vertical & horizontal flip for shapes and images.Annotation-2020-05-12-101635
    [https://blog.pitchprint.com/content/images/2020/05/Annotation-2020-05-12-101635.png]

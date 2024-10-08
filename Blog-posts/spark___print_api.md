@@ -1,6 +1,6 @@
 # **Blog Title**: Spark - Print API
 
-[https://blog.pitchprint.com/spark](https://blog.pitchprint.com/spark)
+## **Blog URL**: [https://blog.pitchprint.com/spark](https://blog.pitchprint.com/spark)
 
 Hey Folks,
 

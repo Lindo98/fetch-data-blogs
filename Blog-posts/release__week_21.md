@@ -1,6 +1,6 @@
 # **Blog Title**: Release #WEEK 21
 
-[https://blog.pitchprint.com/wk21](https://blog.pitchprint.com/wk21)
+## **Blog URL**: [https://blog.pitchprint.com/wk21](https://blog.pitchprint.com/wk21)
 
  * Mobile Experience - Over the past two weeks, we tweaked the mobile interface to be more responsive and fixed the nagging issue of the tab
    hiding when the UI is being scrolled. The text editor is appropriately positioned. We plan on doing more work on the interface here.

@@ -27,20 +27,3 @@ We're still in the process of adding many new exciting designs to our store. Ple
 [https://instagram.com/pitchprint], Facebook [https://facebook.com/pitchprint] and our blog so you don't miss out.
 
 That's it for this week, please tune in with us next week for more bug fixes and additional features. Have a fabulous week!
-
-te - Lastly, we made an update to Wordpress where we've improved the display of metadata.
-
-We also fixed the following bugs:
-
-Template Color Module inside edited project - We had an issue whereby when a customer edited a project using the template color module, the
-module would no longer be available inside the project once the project was opened. We have fixed this issue and the module will now be
-available when the customer edits a project.
-
-Well that's it for this week folks but please do check our new Tutorial Videos on the admin panel by opening the following tab
-https://admin.pitchprint.com/videos [https://admin.pitchprint.com/videos]. We've added quite a few how to videos to assist all of our
-valuable customers on how to manoeuvre around our platform, covering all the from settings to creating designs and easily watch at your
-convenience. We'll add more videos in the weeks to come covering topics such as Modules etc. with practical examples, so please keep an eye
-out!
-
-Have a lovely and productive week from the PitchPrint Team!😊
-

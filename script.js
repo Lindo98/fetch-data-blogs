@@ -14,14 +14,16 @@ const api = new GhostContentAPI({
 
   // Fetch posts
   api.posts
-      .browse({limit: 'all', include: 'ID, images, title, content'})
+      .browse({limit: 'all', include: 'title, images, content'})
       .then((posts) => {
        
         // Loop through posts
-        posts.forEach((post) => {
+        posts.forEach((post) => {  
 
           // Create the markdown content for the individual post
-          let markdownContent = `# **Blog Title**: ${post.title}\n\n`;
+          let markdownContent = '';
+          
+          markdownContent += `# **Blog Title**: ${post.title}\n\n`;
         
           // Convert HTML to plain text
           const plainText = convert(post.html, {
@@ -34,14 +36,15 @@ const api = new GhostContentAPI({
             markdownContent += `![${post.title}](${post.feature_image})\n\n`;
           }
         
-          // Define the file name and path
-          const fileName = `${post.title.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.md`; // Sanitizing the title
-          const filePath = path.join('Blog-posts', fileName); // Adjust the path as necessary
+          // Creating a path for the files.
+
+          const fileName = `${post.title.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.md`;
+          const filePath = path.join('Blog-posts', fileName); 
         
-          // Ensure the Blog-posts directory exists
-          fs.mkdir(path.join('Blog-posts'), { recursive: true }, (err) => {
+          // Ensure the Blog-posts path exists
+          fs.mkdir(path.join('Blog-posts', fileName), { recursive: true }, (err) => {
             if (err) {
-              console.error('Error creating directory:', err);
+              console.error('Error creating path:', err);
               return;
             }
         

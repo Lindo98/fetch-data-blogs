@@ -1,5 +1,7 @@
 # **Blog Title**: Under the Hood: PDF rendering
 
+[https://blog.pitchprint.com/under-the-hood-pdf-rendering](https://blog.pitchprint.com/under-the-hood-pdf-rendering)
+
 One of the challenges we had with earlier versions of PitchPrint was DevOps, specifically the process of scaling and maintaining the
 servers.
 

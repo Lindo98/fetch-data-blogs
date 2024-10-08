@@ -1,5 +1,7 @@
 # **Blog Title**: Release WK17-24
 
+[https://blog.pitchprint.com/wk17-24](https://blog.pitchprint.com/wk17-24)
+
 Hi all👋,
 
 We're back with our very first release note for this year, with plenty more to come! As always we love keeping you up to date with what our

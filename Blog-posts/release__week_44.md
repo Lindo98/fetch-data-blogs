@@ -1,5 +1,7 @@
 # **Blog Title**: Release #WEEK 44
 
+[https://blog.pitchprint.com/wk44](https://blog.pitchprint.com/wk44)
+
  * Design Selector on Mobile - When a design is selected in Design Module, the panel now hides on a mobile design.
 
  * Convert Fonts to Shapes - We added a feature that allows you to convert all fonts into shape paths in the final PDF. This feature can be

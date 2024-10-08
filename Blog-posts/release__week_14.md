@@ -1,5 +1,7 @@
 # **Blog Title**: Release #WEEK 14
 
+[https://blog.pitchprint.com/wk14](https://blog.pitchprint.com/wk14)
+
  * Upload issue on Phones - Fixed issue after uploading an image on mobile, the upload tab would close and the canvas would display.
  * Added Shopify Order Complete Webhook - We've added the order-completed webhook to Shopify.
  * Modified navigation thumbnail label - We've modified the thumbnail label so that when text is too long, the text extends instead of

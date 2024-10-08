@@ -1,5 +1,7 @@
 # **Blog Title**: Release WK38-24
 
+[https://blog.pitchprint.com/release-wk38-24](https://blog.pitchprint.com/release-wk38-24)
+
 Hi All 👋,
 
 We are delighted to share the latest updates aimed at enhancing your experience with PitchPrint. As we welcome Spring here in Cape Town, we

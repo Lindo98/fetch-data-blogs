@@ -1,5 +1,7 @@
 # **Blog Title**: PDF Rendering
 
+[https://blog.pitchprint.com/distilling-pdf](https://blog.pitchprint.com/distilling-pdf)
+
 Over the years, one of our greatest challenge has been how to generate PDF files for print. Yes, PDFs are abundant all over the digital
 space from bank statements to reports, e-books, invoicing, tickets, and so on but there are unique pain points faced by the print community
 all over the world apart from just generating PDF files. Here is a quick overview on some of these key issues:

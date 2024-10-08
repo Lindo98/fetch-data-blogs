@@ -1,5 +1,7 @@
 # **Blog Title**: January Release Notes 🎨
 
+[https://blog.pitchprint.com/january-release-notes](https://blog.pitchprint.com/january-release-notes)
+
 Hi guys! We appreciate your support over the past year and we look forward to a much more exciting year ahead.
 
 We are working to build a brand new analytics and customer journey app that will help you make more sales. Over the first quarter of this

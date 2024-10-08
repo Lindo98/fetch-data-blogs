@@ -1,5 +1,7 @@
 # **Blog Title**: Release WK18-23
 
+[https://blog.pitchprint.com/release-wk18-23](https://blog.pitchprint.com/release-wk18-23)
+
 Hi everyone👋,
 
 We are delighted to share with you the latest updates from our team at PitchPrint, which are aimed at improving your overall experience.

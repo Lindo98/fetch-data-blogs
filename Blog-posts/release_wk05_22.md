@@ -1,5 +1,7 @@
 # **Blog Title**: Release WK05-22
 
+[https://blog.pitchprint.com/release-wk05-22](https://blog.pitchprint.com/release-wk05-22)
+
 Hi all👋,
 
 As always it's a pleasure for us to keep you up to date with what our team has been working on to make your experience at PitchPrint an even

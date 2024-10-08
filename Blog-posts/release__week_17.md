@@ -1,5 +1,7 @@
 # **Blog Title**: Release #WEEK 17
 
+[https://blog.pitchprint.com/wk17](https://blog.pitchprint.com/wk17)
+
  * Text Alignment issue fixed - Fixed an issue where a center or right aligned text gave bad results when positioned using the page align
    control.
  * Photo Print Module - Photo print module is available for version 10.

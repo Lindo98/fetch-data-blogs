@@ -1,5 +1,7 @@
 # **Blog Title**: Release #WEEK 18
 
+[https://blog.pitchprint.com/wk18](https://blog.pitchprint.com/wk18)
+
  * Price Display - We implemented price display in v10; The app syncs your price from the product page on the top menu
    barAnnotation-2020-05-04-074610 [https://blog.pitchprint.com/content/images/2020/05/Annotation-2020-05-04-074610.png]
  * No background Fill - Fixed a bug which occurs when no-color fill is set on a background

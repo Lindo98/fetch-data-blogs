@@ -1,5 +1,7 @@
 # **Blog Title**: Release WK03-22
 
+[https://blog.pitchprint.com/week03-22](https://blog.pitchprint.com/week03-22)
+
 Hi all👋,
 
 A warm welcome from our team to you and we would like to kick off our first post by thanking you for your continued valuable support and

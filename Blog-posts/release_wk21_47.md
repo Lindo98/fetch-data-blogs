@@ -1,5 +1,7 @@
 # **Blog Title**: Release WK21-47
 
+[https://blog.pitchprint.com/release-wk21-48](https://blog.pitchprint.com/release-wk21-48)
+
 Hi all👋,
 
 It's always such an absolute pleasure for us to inform you about what our team has been working on to make your experience with PitchPrint

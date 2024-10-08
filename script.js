@@ -24,6 +24,10 @@ const api = new GhostContentAPI({
           let markdownContent = '';
           
           markdownContent += `# **Blog Title**: ${post.title}\n\n`;
+
+          // add url to post
+          markdownContent += `[https://blog.pitchprint.com/${post.slug}](https://blog.pitchprint.com/${post.slug})\n\n`;
+       
         
           // Convert HTML to plain text
           const plainText = convert(post.html, {
@@ -42,11 +46,11 @@ const api = new GhostContentAPI({
           const filePath = path.join('Blog-posts', fileName); 
         
           // Ensure the Blog-posts path exists
-          fs.mkdir(path.join('Blog-posts', fileName), { recursive: true }, (err) => {
-            if (err) {
-              console.error('Error creating path:', err);
-              return;
-            }
+          // fs.mkdir(path.join('Blog-posts', fileName), { recursive: true }, (err) => {
+          //   if (err) {
+          //     console.error('Error creating path:', err);
+          //     return;
+          //   }
         
             // Write the markdown content to the file
             fs.writeFile(filePath, markdownContent, (err) => {
@@ -58,4 +62,3 @@ const api = new GhostContentAPI({
             });
           });
         });
-      })

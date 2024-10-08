@@ -1,5 +1,7 @@
 # **Blog Title**: Release WK21-33
 
+[https://blog.pitchprint.com/release-wk21-33](https://blog.pitchprint.com/release-wk21-33)
+
 Hi all👋,
 
 We hope that you are well and safe in these trying times, it's good to be back.

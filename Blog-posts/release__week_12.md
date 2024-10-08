@@ -1,5 +1,7 @@
 # **Blog Title**: Release #WEEK 12
 
+[https://blog.pitchprint.com/wk12](https://blog.pitchprint.com/wk12)
+
  * Selective PDF Color rendering using tags - Special tags: rgb and cmyk have been reserved as color rendering instructions on a per-design
    level. So you can override the store's default rendering mode by adding either of these tags to your design. For instance, if the store
    is set to render PDFs in RGB, you can opt to render a select few in CMYK by adding the tag cmyk to those designs.

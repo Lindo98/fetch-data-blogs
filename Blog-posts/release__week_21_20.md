@@ -1,5 +1,7 @@
 # **Blog Title**: Release #WEEK 21-20
 
+[https://blog.pitchprint.com/week21-20](https://blog.pitchprint.com/week21-20)
+
 Hi everyone 👋
 
 It's been a while since our last blog post, but boy do we have some exciting news in store for you. Starting this week, we will resume our

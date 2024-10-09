@@ -1,6 +1,6 @@
 # **Blog Title**: Release WK19-22
 
-#### **Blog URL:** [https://blog.pitchprint.com/release-wk19-22](https://blog.pitchprint.com/release-wk19-22)
+**Blog URL:** [https://blog.pitchprint.com/release-wk19-22/](https://blog.pitchprint.com/https://blog.pitchprint.com/release-wk19-22/)
 
 Hi All👋,
 

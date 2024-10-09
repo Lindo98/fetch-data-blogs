@@ -1,6 +1,6 @@
 # **Blog Title**: Release #WEEK 44
 
-#### **Blog URL:** [https://blog.pitchprint.com/wk44](https://blog.pitchprint.com/wk44)
+**Blog URL:** [https://blog.pitchprint.com/wk44/](https://blog.pitchprint.com/https://blog.pitchprint.com/wk44/)
 
  * Design Selector on Mobile - When a design is selected in Design Module, the panel now hides on a mobile design.
 

@@ -1,6 +1,6 @@
 # **Blog Title**: Upload Photos from Phone
 
-**Blog URL:** [https://blog.pitchprint.com/https://blog.pitchprint.com/upload-photos-from-phone/](https://blog.pitchprint.com/https://blog.pitchprint.com/upload-photos-from-phone/)
+**Blog URL:** [https://blog.pitchprint.com/upload-photos-from-phone](https://blog.pitchprint.com/upload-photos-from-phone)
 
 Hi everyone 👋
 

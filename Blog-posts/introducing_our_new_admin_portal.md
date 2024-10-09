@@ -1,6 +1,6 @@
 # **Blog Title**: Introducing our new Admin Portal
 
-**Blog URL:** [https://blog.pitchprint.com/https://blog.pitchprint.com/new-admin-portal/](https://blog.pitchprint.com/https://blog.pitchprint.com/new-admin-portal/)
+**Blog URL:** [https://blog.pitchprint.com/new-admin-portal](https://blog.pitchprint.com/new-admin-portal)
 
 At PitchPrint, we see Design as a means of empowering you, our clients to make more sales. Because ultimately, your business goal is for
 each of your customers to checkout and the quicker they are able to do that, the better for your business.

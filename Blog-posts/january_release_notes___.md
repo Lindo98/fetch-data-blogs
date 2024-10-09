@@ -1,6 +1,6 @@
 # **Blog Title**: January Release Notes 🎨
 
-**Blog URL:** [https://blog.pitchprint.com/https://blog.pitchprint.com/january-release-notes/](https://blog.pitchprint.com/https://blog.pitchprint.com/january-release-notes/)
+**Blog URL:** [https://blog.pitchprint.com/january-release-notes](https://blog.pitchprint.com/january-release-notes)
 
 Hi guys! We appreciate your support over the past year and we look forward to a much more exciting year ahead.
 

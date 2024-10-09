@@ -1,6 +1,6 @@
 # **Blog Title**: Release #WEEK 43
 
-**Blog URL:** [https://blog.pitchprint.com/https://blog.pitchprint.com/wk43/](https://blog.pitchprint.com/https://blog.pitchprint.com/wk43/)
+**Blog URL:** [https://blog.pitchprint.com/wk43](https://blog.pitchprint.com/wk43)
 
  * Input Mask (beta) - We are adding input mask capability for Text items. In the current state, it only works with Data Form Module and the
    Customize Form. Basically, an input mask is used in formatting text inputs to a particular format.

@@ -1,6 +1,6 @@
 # **Blog Title**: Release WK33-24
 
-**Blog URL:** [https://blog.pitchprint.com/https://blog.pitchprint.com/release-wk33-24/](https://blog.pitchprint.com/https://blog.pitchprint.com/release-wk33-24/)
+**Blog URL:** [https://blog.pitchprint.com/release-wk33-24](https://blog.pitchprint.com/release-wk33-24)
 
 Hi all👋,
 

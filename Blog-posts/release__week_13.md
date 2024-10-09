@@ -1,6 +1,6 @@
 # **Blog Title**: Release #WEEK 13
 
-**Blog URL:** [https://blog.pitchprint.com/https://blog.pitchprint.com/wk13/](https://blog.pitchprint.com/https://blog.pitchprint.com/wk13/)
+**Blog URL:** [https://blog.pitchprint.com/wk13](https://blog.pitchprint.com/wk13)
 
  * Font loading - Fixed issue where the correct fonts assigned to a design did not load on the customers end. We had to re-write the font
    loading machanism to always pre-load all the fonts used in a design before the design is shown at all. And when a design selector module

@@ -1,6 +1,6 @@
 # **Blog Title**: PitchPrint + 3dcart
 
-**Blog URL:** [https://blog.pitchprint.com/https://blog.pitchprint.com/pitchprint-on-3dcart/](https://blog.pitchprint.com/https://blog.pitchprint.com/pitchprint-on-3dcart/)
+**Blog URL:** [https://blog.pitchprint.com/pitchprint-on-3dcart](https://blog.pitchprint.com/pitchprint-on-3dcart)
 
 Hi everyone 😊, our 3dcart integration is ready!
 

@@ -24,7 +24,7 @@ const api = new GhostContentAPI({
           let markdownContent = '';
           
           markdownContent += `# **Blog Title**: ${post.title}\n\n`;
-          markdownContent += `**Blog URL:** [https://blog.pitchprint.com/${post.url}](https://blog.pitchprint.com/${post.url})\n\n`;
+          markdownContent += `**Blog URL:** [https://blog.pitchprint.com/${post.slug}](https://blog.pitchprint.com/${post.slug})\n\n`;
        
           // Convert HTML to plain text
           const plainText = convert(post.html, {

@@ -53,5 +53,5 @@ Do give it a try and sure let us know if you require any assistance setting this
 Please review our plugin and receive a $25 voucher if you're one of the first 100 people to do so, you can review by using this link
 https://review.capterra.com/Feedback-PitchPrint-180523-3107660498 [https://review.capterra.com/Feedback-PitchPrint-180523-3107660498].
 
-![Smart Sizes](https://blog.pitchprint.com/content/images/2021/09/Smart-Resize.png)
+![Smart Sizes](https://blog.pitchprint.com/content/images/2021/09/Smart-Resize.png)&nbsp;&nbsp;&nbsp;&nbsp;
 

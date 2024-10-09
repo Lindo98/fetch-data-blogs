@@ -38,5 +38,5 @@ to bottom. You can do this in settings page [https://admin.pitchprint.io/setting
 5. Layouts: Version 10 Layout has been updated to use tags in assigning Layout to designs. You can read more here:
 https://docs.pitchprint.com/article/129-layouts-v10 [https://docs.pitchprint.com/article/129-layouts-v10]
 
-![PitchPrint + 3dcart](https://blog.pitchprint.com/content/images/2020/03/Artboard---5.png)
+![PitchPrint + 3dcart](https://blog.pitchprint.com/content/images/2020/03/Artboard---5.png)&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -34,13 +34,19 @@ const api = new GhostContentAPI({
         
           // Include images if available
           if (post.feature_image) {
-            markdownContent += `![${post.title}](${post.feature_image})\n\n`;
+            markdownContent += `![${post.title}](${post.feature_image})&nbsp;&nbsp;&nbsp;&nbsp;\n\n`;
           }
         
           // Creating a path for the files.
 
           const fileName = `${post.title.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.md`;
           const filePath = path.join('Blog-posts', fileName); 
+
+          // Create the directory 
+          // fs.mkdir('Blog-posts', { recursive: true }, (err) => {
+          //   if (err) {
+          //     console.error('Error creating directory:', err);
+          //   }
         
             // Write the markdown content to the file
             fs.writeFile(filePath, markdownContent, (err) => {

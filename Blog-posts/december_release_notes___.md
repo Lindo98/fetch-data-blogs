@@ -109,5 +109,5 @@ JANUARY 2019
 
 Thanks to you all and we do wish you a merry Christmas and a splendid New Year ahead 🎉
 
-![December Release Notes 🎅](https://blog.pitchprint.com/content/images/2019/03/clem-onojeghuo-172144-unsplash-1.jpg)
+![December Release Notes 🎅](https://blog.pitchprint.com/content/images/2019/03/clem-onojeghuo-172144-unsplash-1.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
 

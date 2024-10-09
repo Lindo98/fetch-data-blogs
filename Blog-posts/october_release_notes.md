@@ -82,5 +82,5 @@ NEXT MONTH..
 
 Thank you all for believing in us 👏
 
-![October Release Notes](https://blog.pitchprint.com/content/images/2019/03/sarah-dorweiler-211779-unsplash--1-.jpg)
+![October Release Notes](https://blog.pitchprint.com/content/images/2019/03/sarah-dorweiler-211779-unsplash--1-.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
 

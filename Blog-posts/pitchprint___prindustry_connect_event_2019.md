@@ -1,6 +1,6 @@
 # **Blog Title**: PitchPrint @ Prindustry Connect Event 2019
 
-**Blog URL:** [https://blog.pitchprint.com/pitchprint-at-prindustry-connect-2019/](https://blog.pitchprint.com/https://blog.pitchprint.com/pitchprint-at-prindustry-connect-2019/)
+**Blog URL:** [https://blog.pitchprint.com/https://blog.pitchprint.com/pitchprint-at-prindustry-connect-2019/](https://blog.pitchprint.com/https://blog.pitchprint.com/pitchprint-at-prindustry-connect-2019/)
 
 Be our guest at the Prindustry Connect Event 2019; it is an informal relationship event for everyone in the online print industry to meet
 and we have been invited to both present as well as exhibit our software. It will be held at the Evenementenhal 2, Gorinchem, The

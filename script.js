@@ -34,7 +34,7 @@ const api = new GhostContentAPI({
         
           // Include images if available
           if (post.feature_image) {
-            markdownContent += `![${post.title}](${post.feature_image})&nbsp;&nbsp;&nbsp;&nbsp;\n\n`;
+            markdownContent += `![${post.title}](${post.feature_image})\n\n`;
           }
         
           // Creating a path for the files.

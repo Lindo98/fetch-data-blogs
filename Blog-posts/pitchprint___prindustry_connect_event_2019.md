@@ -40,5 +40,5 @@ planned 1st
 
 Enjoy your weekend and we look forward to seeing you at the event.
 
-![PitchPrint @ Prindustry Connect Event 2019](https://blog.pitchprint.com/content/images/2019/09/Header-Q3-1--1-.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![PitchPrint @ Prindustry Connect Event 2019](https://blog.pitchprint.com/content/images/2019/09/Header-Q3-1--1-.png)
 

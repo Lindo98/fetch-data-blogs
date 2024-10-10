@@ -29,5 +29,5 @@ Head over to our documentation page to find out how to implement this API: Spark
 Should you require any additional information or have a suggestion to make, don't hesitate to reach out to us: support@pitchprint.com or hit
 us a DM on twitter [https://twitter.com/pitchprint]
 
-![Spark - Print API](https://blog.pitchprint.com/content/images/2021/07/Spark.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![Spark - Print API](https://blog.pitchprint.com/content/images/2021/07/Spark.png)
 

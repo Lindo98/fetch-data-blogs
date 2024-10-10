@@ -80,5 +80,5 @@ NEXT MONTH..
 
 Thanks to you all and love from Cape town 😊
 
-![November Release Notes](https://blog.pitchprint.com/content/images/2019/03/christian-perner-588111-unsplash--1-.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
+![November Release Notes](https://blog.pitchprint.com/content/images/2019/03/christian-perner-588111-unsplash--1-.jpg)
 

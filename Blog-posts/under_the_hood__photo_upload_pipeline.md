@@ -94,5 +94,5 @@ The journey is just getting started, you can read more here, about how we handle
 every photo your users upload using our Webhook process: https://docs.pitchprint.com/article/99-webhooks
 [https://docs.pitchprint.com/article/99-webhooks]
 
-![Under the Hood: Photo Upload Pipeline](https://blog.pitchprint.com/content/images/2021/03/SPRK_default_preset_name_custom---1.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Under the Hood: Photo Upload Pipeline](https://blog.pitchprint.com/content/images/2021/03/SPRK_default_preset_name_custom---1.jpg)
 

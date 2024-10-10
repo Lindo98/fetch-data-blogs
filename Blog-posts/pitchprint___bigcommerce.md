@@ -28,5 +28,5 @@ RELEASE NOTES
 
 Thanks and stay safe guys!
 
-![PitchPrint + BigCommerce](https://blog.pitchprint.com/content/images/2020/09/BigCommerceLandscape-1.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![PitchPrint + BigCommerce](https://blog.pitchprint.com/content/images/2020/09/BigCommerceLandscape-1.png)
 

@@ -1,7 +1,7 @@
 const GhostContentAPI = require('@tryghost/content-api');
 const fs = require('fs');
 const {convert } = require('html-to-text');
-const path = require('path');
+const path = require('node:path');
 
 // Initialize the GhostContentAPI 
 
@@ -14,23 +14,39 @@ const api = new GhostContentAPI({
 
   // Fetch posts
   api.posts
-      .browse({limit: 'all', include: 'title, images, content'})
+      .browse({limit: 'all'})
       .then((posts) => {
        
         // Loop through posts
         posts.forEach((post) => {  
 
           // Create the markdown content for the individual post
+        
           let markdownContent = '';
+          if (post.title) {
+            markdownContent = `# **Blog Title**: ${post.title}\n\n`;
+          } else {
+            console.log(`No title found for post ${post.title}`);
+          }
           
-          markdownContent += `# **Blog Title**: ${post.title}\n\n`;
-          markdownContent += `**Blog URL:** [https://blog.pitchprint.com/${post.slug}](https://blog.pitchprint.com/${post.slug})\n\n`;
+          if (post.slug) {
+            markdownContent += `**Blog URL:** [https://blog.pitchprint.com/${post.slug}](https://blog.pitchprint.com/${post.slug})\n\n`;
+          } else {
+            console.log(`No slug found for post ${post.title}`);
+          }
+          
        
           // Convert HTML to plain text
           const plainText = convert(post.html, {
             wordwrap: 140,
           });
-          markdownContent += `${plainText}\n\n`;
+          
+          if (plainText) {
+            markdownContent += `${plainText}\n\n`;
+          } else {
+            console.log(`No plain text found for post ${post.title}`);
+          }
+          
         
           // Include images if available
           if (post.feature_image) {
@@ -41,12 +57,6 @@ const api = new GhostContentAPI({
 
           const fileName = `${post.title.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.md`;
           const filePath = path.join('Blog-posts', fileName); 
-
-          // Create the directory 
-          // fs.mkdir('Blog-posts', { recursive: true }, (err) => {
-          //   if (err) {
-          //     console.error('Error creating directory:', err);
-          //   }
         
             // Write the markdown content to the file
             fs.writeFile(filePath, markdownContent, (err) => {
